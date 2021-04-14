@@ -3,10 +3,10 @@ import comment.Zenhan;
 public class Main {
 
 	public static void main(String[] args) {
-		doWarusa();
-		doTogame();
-		callDeae();
-		showMondokoro();
+		Zenhan.doWarusa();
+		Zenhan.doTogame();
+		comment.Kouhan.callDeae();
+		comment.Kouhan.showMondokoro();
 	}
 
 
